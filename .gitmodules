@@ -1,0 +1,6 @@
+[submodule "Plugins/LineRenderer"]
+	path = Plugins/LineRenderer
+	url = https://github.com/n1ckfg/LineRenderer
+[submodule "Plugins/RuntimeMeshComponent"]
+	path = Plugins/RuntimeMeshComponent
+	url = https://github.com/n1ckfg/RuntimeMeshComponent
